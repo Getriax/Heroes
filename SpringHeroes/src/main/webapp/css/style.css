@@ -1,0 +1,18 @@
+body {
+	background-color: #99BBEE;
+}
+.btn-blank {
+	background-color: #e3e3e3;
+}
+.row {
+	background-color: #9988FF;
+}
+.hei{
+	height:100%;
+}
+.btn-detail {
+	background-color: #99FF99;m
+}
+.btn-detail:hover {
+	background-color: #99EE88;
+}
